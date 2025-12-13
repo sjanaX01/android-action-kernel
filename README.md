@@ -10,14 +10,14 @@
 
 <br>
 
-[![Twitter](https://img.shields.io/badge/700K+-views_in_24hrs-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ethanjlim/status/1999152070428148108?s=20)
+[![Twitter](https://img.shields.io/badge/4M+-views-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ethanjlim/status/1999152070428148108?s=20)
 [![Stars](https://img.shields.io/github/stars/actionstatelabs/android-action-kernel?style=for-the-badge)](https://github.com/actionstatelabs/android-action-kernel/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 <br>
 
-### 🎥 Watch the Demo That Got 700K Views
+### 🎥 Watch the Demo That Got 4 Million Views
 
 **[► See it automate a logistics workflow in 60 seconds →](https://x.com/ethanjlim/status/1999152070428148108?s=20)**
 
@@ -116,7 +116,7 @@ run_agent("""
 
 Launched **24 hours ago** with the logistics demo:
 
-- 🚀 **700,000+ views** on X/Twitter ([watch demo](https://x.com/ethanjlim/status/1999152070428148108?s=20))
+- 🚀 **4,000,000+ views** on X/Twitter ([watch demo](https://x.com/ethanjlim/status/1999152070428148108?s=20))
 - 💬 Flooded with DMs from logistics companies, gig platforms, field service providers
 - 🏗️ **Built in 48 hours** to validate demand
 - 🎯 **Beta pilots** testing with trucking companies and delivery fleets
@@ -438,7 +438,7 @@ screen_json = get_screen_state()
 
 ### ⭐ Help Us Reach 1,000 Stars ⭐
 
-**We got 700K views but only 12 stars. Help us fix that!**
+**We got 4 million views but only 12 stars. Help us fix that!**
 
 **[Click here to star this repo →](https://github.com/actionstatelabs/android-action-kernel/stargazers)**
 
@@ -461,7 +461,7 @@ Support the project
 
 Help logistics companies find this
 
-[Tweet →](https://twitter.com/intent/tweet?text=🚛%20Game%20changer%20for%20logistics!%20Android%20Use%20lets%20AI%20agents%20control%20native%20Android%20apps.%0A%0A✅%20Works%20in%20truck%20cabs%20(no%20laptop%20needed)%0A✅%2095%25%20cheaper%20than%20Computer%20Use%0A✅%20Automates%20factoring%20apps,%20WhatsApp,%20more%0A%0A700K%20views%20in%2024hrs!%0A%0A&url=https://github.com/actionstatelabs/android-action-kernel&via=ethanjlim)
+[Tweet →](https://twitter.com/intent/tweet?text=🚛%20Game%20changer%20for%20logistics!%20Android%20Use%20lets%20AI%20agents%20control%20native%20Android%20apps.%0A%0A✅%20Works%20in%20truck%20cabs%20(no%20laptop%20needed)%0A✅%2095%25%20cheaper%20than%20Computer%20Use%0A✅%20Automates%20factoring%20apps,%20WhatsApp,%20more%0A%0A4M%20views!%0A%0A&url=https://github.com/actionstatelabs/android-action-kernel&via=ethanjlim)
 
 </td>
 <td align="center" width="33%">
@@ -511,7 +511,7 @@ Neither solved the truck cab problem. So I built Android Use in 48 hours using A
 - 5x faster (<1s latency)
 - Works on handheld devices ✅
 
-I posted the demo showing a logistics workflow. **700K views in 24 hours.** The market validated the need is real.
+I posted the demo showing a logistics workflow. **4 million views.** The market validated the need is real.
 
 ### What's Next
 
@@ -530,7 +530,7 @@ This started as a library for developers. But based on demand, we're building:
 
 - 🐦 **X/Twitter:** [@ethanjlim](https://x.com/ethanjlim) - Follow for updates
 - 📧 **Email:** founders@actionstatelabs.com - Partnerships, questions
-- 🎥 **Demo:** [Watch on X](https://x.com/ethanjlim/status/1999152070428148108?s=20) - 700K+ views
+- 🎥 **Demo:** [Watch on X](https://x.com/ethanjlim/status/1999152070428148108?s=20) - 4M+ views
 - 🐛 **Issues:** [GitHub Issues](https://github.com/actionstatelabs/android-action-kernel/issues)
 - 💼 **Hiring:** Seeking co-founders (logistics domain expertise a plus!)
 
@@ -541,7 +541,7 @@ This started as a library for developers. But based on demand, we're building:
 ## 📊 By the Numbers
 
 **Since launch (24 hours ago):**
-- 👀 **700,000+** views on X
+- 👀 **4,000,000+** views on X
 - ⭐ **12** GitHub stars (help us get to 1,000!)
 - 💬 **150+** DMs from companies
 - 🚛 **5** logistics company pilots
@@ -570,7 +570,7 @@ Built on:
 - [Browser Use](https://github.com/browser-use/browser-use) - Web agent inspiration
 - [Anthropic Computer Use](https://www.anthropic.com/news/computer-use) - Proved UI control works
 - Android Accessibility API - The enabling technology
-- **The 700K people who watched and validated this need**
+- **The 4 million people who watched and validated this need**
 
 Special thanks to:
 - Truck drivers who showed me the real problem
@@ -604,7 +604,7 @@ python kernel.py
 
 <br>
 
-**Join the 700K+ people who believe AI agents deserve to work on mobile devices.**
+**Join the 4 million+ people who believe AI agents deserve to work on mobile devices.**
 
 <br>
 
