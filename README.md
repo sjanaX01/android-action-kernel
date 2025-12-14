@@ -25,9 +25,9 @@
 
 <br>
 
-**[⭐ Star this repo (550+ → 1,000 goal!)](https://github.com/actionstatelabs/android-action-kernel) • [Quick Start](#quick-start) • [Book Partnership Meeting](https://build.fillout.com/editor/ctqhgaBkaKus/share)**
+**[⭐ Star this repo (600+ → 1,000 goal!)](https://github.com/actionstatelabs/android-action-kernel) • [Quick Start](#quick-start) • [Book Partnership Meeting](https://build.fillout.com/editor/ctqhgaBkaKus/share)**
 
-**5M views. 550+ stars in days. Help us reach 1,000!** • **Priority partnerships:** Trucking/logistics • Mobile QA testing • [Request meeting →](https://build.fillout.com/editor/ctqhgaBkaKus/share)
+**5M views. 600+ stars in days. Help us reach 1,000!** • **Priority partnerships:** Trucking/logistics • Mobile QA testing • [Request meeting →](https://build.fillout.com/editor/ctqhgaBkaKus/share)
 
 </div>
 
@@ -571,7 +571,6 @@ Already running pilots with 5 trucking/delivery companies.
 - **Email:** founders@actionstatelabs.com - General inquiries
 - **Demo:** [Watch on X](https://x.com/ethanjlim/status/1999152070428148108?s=20) - 4.5M+ views
 - **Issues:** [GitHub Issues](https://github.com/actionstatelabs/android-action-kernel/issues)
-- **Hiring:** Seeking co-founders (logistics domain expertise a plus!)
 
 ---
 
