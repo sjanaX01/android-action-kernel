@@ -25,9 +25,9 @@
 
 <br>
 
-**[⭐ Star this repo (950+ → 1,500 goal!)](https://github.com/actionstatelabs/android-action-kernel) • [Quick Start](#quick-start) • [Book Partnership Meeting](https://build.fillout.com/editor/ctqhgaBkaKus/share)**
+**[⭐ Star this repo (1100+ → 1,500 goal!)](https://github.com/actionstatelabs/android-action-kernel) • [Quick Start](#quick-start) • [Book Partnership Meeting](https://build.fillout.com/editor/ctqhgaBkaKus/share)**
 
-**5.3M+ views. 950+ stars in days. Help us reach 1,500!** • **Priority partnerships:** Trucking/logistics • Mobile QA testing • [Request meeting →](https://build.fillout.com/editor/ctqhgaBkaKus/share)
+**5.3M+ views. 1100+ stars in days. Help us reach 1,500!** • **Priority partnerships:** Trucking/logistics • Mobile QA testing • [Request meeting →](https://build.fillout.com/editor/ctqhgaBkaKus/share)
 
 </div>
 
@@ -119,7 +119,7 @@ run_agent("""
 Launched with the logistics demo:
 
 - **5.3M+ views** on X/Twitter ([watch demo](https://x.com/ethanjlim/status/1999152070428148108?s=20))
-- **950+ GitHub stars** (from 12 stars at launch - help us reach 1,500!)
+- **1100+ GitHub stars** (from 12 stars at launch - help us reach 1,500!)
 - **150+ inbound messages** from logistics companies, gig platforms, field service providers  
 - **5 active pilot programs** with trucking companies and delivery fleets
 - **3 factoring companies** exploring partnership integrations
@@ -449,7 +449,7 @@ screen_json = get_screen_state()
 
 ### Help Us Reach 1,500 Stars!
 
-**5.3 million views. 12 → 950+ stars in days. This growth validates the market need.**
+**5.3 million views. 12 → 1100+ stars in days. This growth validates the market need.**
 
 **Help us hit 1,500 stars to show investors/partners there's real demand for mobile AI agents!**
 
@@ -458,7 +458,7 @@ screen_json = get_screen_state()
 <br>
 
 ```
-Star Progress: ████████████████░░░░░░░░░░░░ 950+ / 1,500 stars (63% there!)
+Star Progress: ████████████████░░░░░░░░░░░░ 1100+ / 1,500 stars (63% there!)
 ```
 
 <sub>Every star helps logistics companies and QA teams discover this solution + validates demand for funding</sub>
@@ -534,7 +534,7 @@ Neither solved the truck cab problem. So I built Android Use using Android's acc
 - 5x faster (<1 second vs 3-5 seconds)
 - Works on actual handheld devices in trucks, warehouses, delivery routes
 
-Posted the demo showing a full logistics workflow. **5.3 million views. 150+ inbound messages from companies. 950+ GitHub stars.** The market validated the need immediately and continues to grow.
+Posted the demo showing a full logistics workflow. **5.3 million views. 150+ inbound messages from companies. 1100+ GitHub stars.** The market validated the need immediately and continues to grow.
 
 ### What's Next
 
@@ -578,7 +578,7 @@ Already running pilots with 5 trucking/delivery companies.
 
 **Since launch:**
 - **5.3M+** views on X
-- **950+ GitHub stars** (grew from 12 in days - viral growth!)
+- **1100+ GitHub stars** (grew from 12 in days - viral growth!)
 - **150+** DMs from companies
 - **5** logistics company pilots in progress
 - **3** factoring company partnership discussions
@@ -588,7 +588,7 @@ Already running pilots with 5 trucking/delivery companies.
 - **60M** gig economy workers globally
 - **$40T+** in mobile-first GDP
 
-**The star growth from 12 → 950+ validates real demand.** Help us reach 1,500 → **[Star now](https://github.com/actionstatelabs/android-action-kernel/stargazers)**
+**The star growth from 12 → 1100+ validates real demand.** Help us reach 1,500 → **[Star now](https://github.com/actionstatelabs/android-action-kernel/stargazers)**
 
 ---
 
